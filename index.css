@@ -1,0 +1,13 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.tomato-color{
+    color: tomato;
+}
+#john{
+    color: blue;
+}
+#hitman{
+    color: blue;
+    font-size: larger;
+}
