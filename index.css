@@ -30,9 +30,12 @@ section{
 }
 .half-width img{
     width: 60%;
-    padding-top: 20px;
+    padding-top: 40px;
 }
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+#name{
+    color: tomato;
 }
